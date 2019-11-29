@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eat da burger api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wseide/burger.git"
+  },
+  "keywords": [
+    "eat",
+    "da",
+    "burger"
+  ],
+  "author": "Wismy Seide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wseide/burger/issues"
+  },
+  "homepage": "https://github.com/wseide/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
