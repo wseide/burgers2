@@ -17,3 +17,27 @@ li {
 .form-group {
     margin-bottom: 5px;
 }
+
+html, body, head {
+background-color: ivory;
+color: darkred;
+font-family: 'Bubblegum Sans', cursive;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.button {
+        background-color: maroon;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-family: 'Bubblegum Sans', cursive;
+      }
