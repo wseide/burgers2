@@ -6,3 +6,9 @@ Eat Da Burger is a restaurant application that allows you to create and eat burg
 Open your terminal and navigate to the burger directory and then enter: ```npm install```. This will install the node modules needed.
 
 ## Burger Menu
+Big Mac
+Whooper Jr.
+Double Stack
+Angus Beef
+
+![](screenshot.PNG)
